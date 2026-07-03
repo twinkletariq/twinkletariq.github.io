@@ -84,3 +84,13 @@ This version is ready for GitHub Pages deployment. It includes:
 - Profile photo, CV page, animations, and dark/light mode
 
 Upload the files inside `tarannum_academic_portfolio/` directly to the `twinkletariq.github.io` repository root.
+
+
+## Mobile Responsive Final Version
+
+This package includes the updated `index.html` with the Manuscripts Under Review section and an additional CSS patch for improved mobile responsiveness across phone, tablet, and desktop screens.
+
+
+## Mobile Hero Fix
+
+This version fixes the mobile hero section so the name, profile image, subtitle, and buttons stack cleanly on phone screens.
