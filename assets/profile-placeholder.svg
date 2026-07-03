@@ -1,0 +1,8 @@
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="800" rx="120" fill="#F7F4EF"/>
+  <circle cx="400" cy="285" r="120" fill="#DDD6FE"/>
+  <path d="M190 680C222 548 296 480 400 480C504 480 578 548 610 680" fill="#99F6E4"/>
+  <path d="M190 680C222 548 296 480 400 480C504 480 578 548 610 680" stroke="#0F766E" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="400" cy="285" r="120" stroke="#7C3AED" stroke-width="18"/>
+  <text x="400" y="750" text-anchor="middle" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#1C2430">Add profile.jpg</text>
+</svg>
